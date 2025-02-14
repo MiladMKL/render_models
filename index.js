@@ -9,19 +9,19 @@ app.use(express.json());
 let models = [
   {
     id: 1,
-    name: "Amber Ajami",
+    name: "",
     isThick: true,
     country: "USA",
   },
   {
     id: 2,
-    name: "Anna Kopf",
+    name: "",
     isThick: true,
     country: "Germany",
   },
   {
     id: 3,
-    name: "Ameliasocurvy",
+    name: "",
     isThick: true,
     country: "Australia",
   },
